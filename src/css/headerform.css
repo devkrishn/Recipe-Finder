@@ -21,11 +21,12 @@
   .input-form input[type="text"] {
     padding: 8px 20px;
     background-color: transparent;
-    border: 1.5px solid #93a;
     color: #333;
     width: 300px;
     font-size: 1.2rem;
     top: 3px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 1px 0px;
   }
   
   .input-form input[type="text"]:focus {
@@ -37,8 +38,6 @@
     margin-left: 20px;
     padding: 10px;
     border: 0;
-    background-color: #93a;
-    color: #eee;
     cursor: pointer;
   }
   

@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import Axios from "axios";
+import "./css/recipesearch.css";
 
 class RecipeSearch extends Component {
   constructor(props) {
