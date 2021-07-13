@@ -40,4 +40,6 @@
   .noData {
     text-align: center;
   }
-  
+  #like{
+    float: right;
+  }
